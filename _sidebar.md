@@ -1,4 +1,4 @@
-- [[ . | Home]]
+- [[Home | .]]
 - [[Dir One]]
 - [[Dir Two]]
 - [[File One]]

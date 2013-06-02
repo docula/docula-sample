@@ -11,11 +11,11 @@ public static void main(String... args) {
 [[SuB me]]
 
 
-[[File One | custom name]]
+[[custom name | File One]]
 
-[[File Three | file link in different subdirectory]]
+[[file link in different subdirectory | File Three]]
 
-[[Dir Two | directory link]]
+[[directory link | Dir Two]]
 
 [normal link](http://www.google.com)
 
