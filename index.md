@@ -18,3 +18,5 @@ public static void main(String... args) {
 [[Dir Two | directory link]]
 
 [normal link](http://www.google.com)
+
+![image link](drac.gif "alt text")
